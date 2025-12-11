@@ -1,0 +1,7 @@
+{
+  "name": "Aetheris: Flow State OS",
+  "description": "A next-generation intelligence platform designed for the modern mind. Features Aetheris-Live (Voice), Neuro-Mapping, and abstract visualization to elevate your cognitive flow.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
